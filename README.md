@@ -26,3 +26,4 @@ Ejecute el siguiente comando en el terminal:
 pytest
 ```
 
+Verificación Funcionamiento
