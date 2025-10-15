@@ -1,0 +1,15 @@
+ROLE:
+Actue como un experto en análisis de datos, especializado en finanzas.
+
+CONTEXTO:
+Usted esta contribuyendo a la preparacion de un informe ......
+
+TAREA:
+Realice un análisis de la tabla XXX, donde ....
+
+RESTRICCIONES:
+- Use solamente la información suministrada y no incorpore su propio conocimiento. -- Evitar alucinaciones
+- .....
+
+SALIDA:
+Limite a generar únicamente el texto solicitado. No agregue texto introductorio, ni de finalización, ni otros mensajes.
